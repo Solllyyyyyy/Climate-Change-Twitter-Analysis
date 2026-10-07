@@ -41,8 +41,8 @@ The project involved:
 
 The analysis identified patterns in climate change conversations and engagement across the 2008–2022 period.
 
-> Specific findings are presented in the accompanying report and dashboard.
-> 
+Specific findings are presented in the accompanying report and dashboard.
+ 
 [Climate Change Twitter Report.pdf](https://github.com/user-attachments/files/33180213/Climate.Change.Twitter.Report.pdf)
 
 ## SQL Queries
