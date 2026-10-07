@@ -53,6 +53,15 @@ The analysis identified patterns in climate change conversations and engagement 
 
 The final analysis was visualised in Power BI to make the trends and patterns easier to explore.
 
+<img width="1177" height="704" alt="Screenshot 2026-10-07 233754" src="https://github.com/user-attachments/assets/0f02eff0-4bf6-46a1-8a42-88c4ebd0134c" />
+
+<img width="1190" height="721" alt="Screenshot 2026-10-07 233837" src="https://github.com/user-attachments/assets/81136023-7b59-4a4a-bcce-1da974658afe" />
+
+<img width="1191" height="720" alt="Screenshot 2026-10-07 233917" src="https://github.com/user-attachments/assets/b557efba-bcc7-4288-93b3-b5261eb629cd" />
+
+<img width="1193" height="724" alt="Screenshot 2026-10-07 234004" src="https://github.com/user-attachments/assets/73964ea5-33da-4772-95fd-ee281e9c3481" />
+
+
 ## Project Outcome
 
 This project demonstrates my ability to work with large datasets, transform raw data into usable information, and communicate findings through data visualisation.
